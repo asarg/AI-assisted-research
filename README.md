@@ -16,10 +16,10 @@ Some entries may still be in progress. We'll note which parts are available and 
 
 ## Adding a paper
 
-Start with the [paper template](papers/_template/). ASARG members with write access can do this in their browser:
+Start with the [paper template](papers/_template/) and follow these instructions:
 
 1. **Copy the template.** Copy the template folder and rename the copy to a short name for your paper, such as `crn-reachability`.
-2. **Add your files.** Drag `paper.pdf` and `slop.pdf` into your new paper folder, and put the Lean project inside its `lean-verification/` folder. Add whichever parts are ready.
+2. **Add your files.** Add `paper.pdf` and `slop.pdf` into your new paper folder, and put the Lean project inside its `lean-verification/` folder. Add whichever parts are ready.
 3. **Fill in the READMEs.** Replace the placeholders in your paper’s README. If you have a Lean project, fill in its checking instructions too. Say what is available, what has been checked, and what is still unfinished.
 
 ## Questions and corrections
