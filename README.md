@@ -6,7 +6,7 @@ We want to make this work available as soon as possible. When much of a paper is
 
 ## What's in each paper folder?
 
-Each paper has its own folder under `papers/`. Following an approach described by Erik Demaine, we're organizing each result around three things:
+Each paper has its own folder under `papers/`. This organization is inspired by [Erik Demaine](https://github.com/edemaine)'s AI-assisted research workflow, including his [Loose Ends](https://github.com/edemaine/loose-ends) project.
 
 - **`paper.pdf`** — A human-readable explanation of the problem and the main theorems.
 - **`lean-verification/`** — Formal Lean code proving the results in the paper, along with the files and instructions needed to check it.
