@@ -22,13 +22,7 @@ Start with the [paper template](papers/_template/). ASARG members with write acc
 2. **Copy the template.** In the file explorer, right-click `_template` and choose **Copy**. Right-click its parent `papers` folder and choose **Paste**. Rename the copy to a short name for your paper, such as `crn-reachability`.
 3. **Add your files.** Drag `paper.pdf` and `slop.pdf` into your new paper folder, and put the Lean project inside its `lean-verification/` folder. Add whichever parts are ready.
 4. **Fill in the READMEs.** Replace the placeholders in your paper’s README. If you have a Lean project, fill in its checking instructions too. Say what is available, what has been checked, and what is still unfinished.
-5. **List your paper.** Add a line under **Papers** in this root README, using your actual folder name:
-
-   ```markdown
-   - [Your paper title](papers/crn-reachability/)
-   ```
-
-6. **Save your changes.** Open **Source Control** in the left sidebar, click **+** next to **Changes**, enter a short commit message, and choose **Commit & Push**. If the repository requires pull requests, use a new branch and open a pull request.
+5. **Save your changes.** Open **Source Control** in the left sidebar, click **+** next to **Changes**, enter a short commit message, and choose **Commit & Push**. If the repository requires pull requests, use a new branch and open a pull request.
 
 ## Questions and corrections
 
