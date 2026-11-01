@@ -18,11 +18,9 @@ Some entries may still be in progress. We'll note which parts are available and 
 
 Start with the [paper template](papers/_template/). ASARG members with write access can do this in their browser:
 
-1. **Open the editor.** While viewing this repository on GitHub, press the `.` key.
-2. **Copy the template.** In the file explorer, right-click `_template` and choose **Copy**. Right-click its parent `papers` folder and choose **Paste**. Rename the copy to a short name for your paper, such as `crn-reachability`.
-3. **Add your files.** Drag `paper.pdf` and `slop.pdf` into your new paper folder, and put the Lean project inside its `lean-verification/` folder. Add whichever parts are ready.
-4. **Fill in the READMEs.** Replace the placeholders in your paper’s README. If you have a Lean project, fill in its checking instructions too. Say what is available, what has been checked, and what is still unfinished.
-5. **Save your changes.** Open **Source Control** in the left sidebar, click **+** next to **Changes**, enter a short commit message, and choose **Commit & Push**. If the repository requires pull requests, use a new branch and open a pull request.
+1. **Copy the template.** Copy the template folder and rename the copy to a short name for your paper, such as `crn-reachability`.
+2. **Add your files.** Drag `paper.pdf` and `slop.pdf` into your new paper folder, and put the Lean project inside its `lean-verification/` folder. Add whichever parts are ready.
+3. **Fill in the READMEs.** Replace the placeholders in your paper’s README. If you have a Lean project, fill in its checking instructions too. Say what is available, what has been checked, and what is still unfinished.
 
 ## Questions and corrections
 
