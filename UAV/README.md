@@ -4,8 +4,8 @@
 
 ###### Description:
 This repository contains the AI generated documents related to arxiv paper: 
-* UAV_Writeup.pdf - The human written summary of the results (this is the arxiv paper).
-* UAV_AI_Results.pdf - The AI written summary paper of the results with AI proofs of correctness.
+* UAV_paper.pdf - The human written summary of the results (this is the arxiv paper).
+* UAV_AI_paper.pdf - The AI written summary paper of the results with AI proofs of correctness.
 * UAV_2D_Subquadtratic_LEAN.zip - The LEAN code to verify the subquadratic algorithm. 
 
 This repository will be updated with any changes in information or results. 
