@@ -1,0 +1,558 @@
+Source policy checks passed for 88 Lean files.
+✔ [2799/2886] Built LinearAssemblies.Algorithms.Arithmetic
+✔ [2800/2886] Built LinearAssemblies.Models
+✔ [2801/2886] Built LinearAssemblies.Probability.UniformGraph
+✔ [2802/2886] Built LinearAssemblies.Probability.Absorption
+✔ [2803/2886] Built LinearAssemblies.Forest.Functional
+✔ [2804/2886] Built LinearAssemblies.OnePad.Recurrence
+✔ [2805/2886] Built LinearAssemblies.Probability.Reachable
+✔ [2806/2886] Built LinearAssemblies.Forest.Roots
+✔ [2807/2886] Built LinearAssemblies.Probability.UniformChain
+✔ [2808/2886] Built LinearAssemblies.OnePad.PotentialBound
+✔ [2809/2886] Built LinearAssemblies.Probability.External
+✔ [2810/2886] Built LinearAssemblies.OnePad.ResetProgram
+✔ [2811/2886] Built LinearAssemblies.Forest.Counts
+✔ [2812/2886] Built LinearAssemblies.Forest.Expansion
+✔ [2813/2886] Built LinearAssemblies.Probability.Transient
+✔ [2814/2886] Built LinearAssemblies.TileGraph
+✔ [2815/2886] Built LinearAssemblies.Probability.Tail
+✔ [2816/2886] Built LinearAssemblies.PositiveDigits
+✔ [2817/2886] Built LinearAssemblies.Probability.Composition
+✔ [2818/2886] Built LinearAssemblies.Forest.PolynomialBounds
+✔ [2819/2886] Built LinearAssemblies.OnePad.CertifiedBlock
+✔ [2820/2886] Built LinearAssemblies.Probability.Accuracy
+✔ [2821/2886] Built LinearAssemblies.Semantics
+✔ [2822/2886] Built LinearAssemblies.Probability.Transform
+✔ [2823/2886] Built LinearAssemblies.DigitData
+✔ [2824/2886] Built LinearAssemblies.Probability.DiscreteLaw
+✔ [2825/2886] Built LinearAssemblies.Forest.Representation
+✔ [2826/2886] Built LinearAssemblies.Presentation
+✔ [2827/2886] Built LinearAssemblies.Accuracy
+✔ [2828/2886] Built LinearAssemblies.Probability.SubexponentialExternal
+✔ [2829/2886] Built LinearAssemblies.Probability.TransformDerivative
+✔ [2830/2886] Built LinearAssemblies.OnePad.ClosedForm
+✔ [2831/2886] Built LinearAssemblies.CoefficientBounds
+✔ [2832/2886] Built LinearAssemblies.PresentationGraph
+✔ [2833/2886] Built LinearAssemblies.Forest.RealPolynomial
+✔ [2834/2886] Built LinearAssemblies.OnePad.ResetCompiler
+✔ [2835/2886] Built LinearAssemblies.TwoPad.Construction
+✔ [2836/2886] Built LinearAssemblies.PresentationMap
+✔ [2837/2886] Built LinearAssemblies.Concatenation.Presentation
+✔ [2838/2886] Built LinearAssemblies.Probability.RationalTransform
+✔ [2839/2886] Built LinearAssemblies.Forest.WeightedDegree
+✔ [2840/2886] Built LinearAssemblies.OnePad.ExactValue
+✔ [2841/2886] Built LinearAssemblies.OnePad.TileCompiler
+✔ [2842/2886] Built LinearAssemblies.TwoPad.Certificate
+✔ [2843/2886] Built LinearAssemblies.Concatenation.Certificate
+✔ [2844/2886] Built LinearAssemblies.Probability.TransformBound
+✔ [2845/2886] Built LinearAssemblies.OnePad.Characterization
+✔ [2846/2886] Built LinearAssemblies.Concatenation.Distribution
+✔ [2847/2886] Built LinearAssemblies.Algorithms.Sequential
+✔ [2848/2886] Built LinearAssemblies.TwoPad.Realization
+✔ [2849/2886] Built LinearAssemblies.Probability.MeanCoefficientBound
+✔ [2850/2886] Built LinearAssemblies.OnePad.LogarithmicBounds
+✔ [2851/2886] Built LinearAssemblies.Probability.TiltedWindow
+✔ [2852/2886] Built LinearAssemblies.Concatenation.FreshLabels
+✔ [2853/2886] Built LinearAssemblies.OnePad.ExponentialBound
+✔ [2854/2886] Built LinearAssemblies.OnePad.BlockBound
+✔ [2855/2886] Built LinearAssemblies.OnePad.Presentation
+✔ [2856/2886] Built LinearAssemblies.Probability.Confidence
+✔ [2857/2886] Built LinearAssemblies.Algorithms.Candidates
+✔ [2858/2886] Built LinearAssemblies.Confidence
+✔ [2859/2886] Built LinearAssemblies.LowerBounds
+✔ [2860/2886] Built LinearAssemblies.ExpectedLowerBound
+✔ [2861/2886] Built LinearAssemblies.Algorithms.Power
+✔ [2862/2886] Built LinearAssemblies.Algorithms.Approximation
+✔ [2863/2886] Built LinearAssemblies.Algorithms.BitGrowth
+✔ [2864/2886] Built LinearAssemblies.Analysis.BaseChoice
+✔ [2865/2886] Built LinearAssemblies.TwoPad.UpperBound
+✔ [2866/2886] Built LinearAssemblies.Analysis.Growth
+✔ [2867/2886] Built LinearAssemblies.Algorithms.FastSearch
+✔ [2868/2886] Built LinearAssemblies.Concatenation.Blocks
+✔ [2869/2886] Built LinearAssemblies.Analysis.BalancedPartition
+✔ [2870/2886] Built LinearAssemblies.Concatenation.Sequence
+✔ [2871/2886] Built LinearAssemblies.Algorithms.Complexity
+✔ [2872/2886] Built LinearAssemblies.Probability.BlockConcentration
+✔ [2873/2886] Built LinearAssemblies.Probability.BernsteinBlocks
+✔ [2874/2886] Built LinearAssemblies.Concentration.Blocks
+✔ [2875/2886] Built LinearAssemblies.Concentration.Parameters
+✔ [2876/2886] Built LinearAssemblies.Concentration.Deterministic
+✔ [2877/2886] Built LinearAssemblies.Concentration.Budgets
+✔ [2878/2886] Built LinearAssemblies.Concentration.Probabilistic
+✔ [2879/2886] Built LinearAssemblies.Concentration.Semantics
+✔ [2880/2886] Built LinearAssemblies.Analysis.RegimeBounds
+✔ [2881/2886] Built LinearAssemblies.UpperBounds
+✔ [2882/2886] Built LinearAssemblies.PadEmbedding
+✔ [2883/2886] Built LinearAssemblies.Analysis.RegimeParameters
+✔ [2884/2886] Built LinearAssemblies.Regimes
+✔ [2885/2886] Built LinearAssemblies
+Build completed successfully.
+'LinearAssemblies.OnePad.maximizing_degree_le_three' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.OnePad.reduced_recurrence' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.OnePad.closed_form_scaled' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.OnePad.fastF_eq_F' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.OnePad.minimumBudget_eq_threeCandidates' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.OnePad.recurrenceCost_100' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.OnePad.ResetProgram.attainable_iff' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.System.card_interfaces_le_cost' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.System.entryProbability_sum' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.onePad_embedding' depends on axioms: [propext]
+'LinearAssemblies.Probability.FiniteChain.partial_mass_le_one' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'LinearAssemblies.Probability.FiniteChain.absorption_atom_bound' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'LinearAssemblies.Probability.FiniteChain.mem_window_iff' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.Probability.FiniteChain.accuracy_lower_bound' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'LinearAssemblies.Probability.UniformGraph.haltable_of_potential' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'LinearAssemblies.Probability.UniformGraph.chain_mass_eq' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.Probability.UniformGraph.restrict_mass' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.Probability.UniformGraph.restrict_haltable' depends on axioms: [propext, Quot.sound]
+'LinearAssemblies.System.onePad_graph_cost_le' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.System.length_atom_bound' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.System.attachmentWindow_eq_chain' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.System.accuracy_lower_bound' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.System.accuracy_small_target' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.System.expectedLength_eq' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.System.summable_length' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.OnePad.potential_le_F_cost' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.OnePad.CertifiedBlock.compile_exists' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.OnePad.TileCompiler.choices_sum' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.OnePad.TileCompiler.system_potential' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.OnePad.mean_le_F' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.OnePad.exact_characterization' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.OnePad.minimum_tile_cost' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.OnePad.minimum_tile_cost_100' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.Forest.det_incidence_rooted' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.Forest.det_incidence_not_rooted' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.Forest.rooted_redirect_iff' depends on axioms: [propext, Quot.sound]
+'LinearAssemblies.Forest.det_laplacian' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.Forest.det_updateCol_termination' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.Forest.Counts.positive_forest' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.Forest.Counts.B_nonneg' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.Forest.Counts.H_nonneg' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.Forest.Counts.B_degree' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.Forest.Counts.B_one_le_product' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.Forest.Counts.B_zero_eq_H_zero' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.Forest.Counts.B_zero_pos' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.Forest.Counts.B_eq_determinant' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.Forest.Counts.H_eq_cramer' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.Forest.Counts.nonnegative_integer_representation' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'LinearAssemblies.Probability.UniformGraph.transient_haltable' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'LinearAssemblies.System.tile_polynomial_representation' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.System.general_coefficient_bounds' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.System.onePad_coefficient_bounds' depends on axioms: [propext, Classical.choice, Quot.sound]
+LinearAssemblies.Probability.FiniteAbsorptionLaw.normalized (self : LinearAssemblies.Probability.FiniteAbsorptionLaw)
+  {S : Type} [Fintype S] (g : LinearAssemblies.Probability.UniformGraph S) :
+  g.Haltable → ∀ (x : S), HasSum (fun k => g.stoppingMass k x) 1
+LinearAssemblies.Probability.FiniteAbsorptionLaw.finite_mean (self : LinearAssemblies.Probability.FiniteAbsorptionLaw)
+  {S : Type} [Fintype S] (g : LinearAssemblies.Probability.UniformGraph S) :
+  g.Haltable → ∀ (x : S), Summable fun k => ↑k * g.stoppingMass k x
+LinearAssemblies.Probability.FiniteAbsorptionLaw.first_step (self : LinearAssemblies.Probability.FiniteAbsorptionLaw)
+  {S : Type} [Fintype S] (g : LinearAssemblies.Probability.UniformGraph S) : g.Haltable → g.Potential g.expected
+LinearAssemblies.Probability.FiniteAbsorptionLaw.unique (self : LinearAssemblies.Probability.FiniteAbsorptionLaw)
+  {S : Type} [Fintype S] (g : LinearAssemblies.Probability.UniformGraph S) (h : S → ℝ) :
+  g.Haltable → g.Potential h → ∀ (x : S), g.expected x = h x
+LinearAssemblies.OnePad.exact_characterization (ext : LinearAssemblies.Probability.FiniteAbsorptionLaw) (r M : ℕ) :
+  LinearAssemblies.OnePad.Realizable r M ↔ M ≤ LinearAssemblies.OnePad.F r
+LinearAssemblies.OnePad.minimum_tile_cost (ext : LinearAssemblies.Probability.FiniteAbsorptionLaw) (N : ℕ)
+  (hN : 1 ≤ N) :
+  LinearAssemblies.OnePad.LengthRealizable (LinearAssemblies.OnePad.recurrenceCost N) N ∧
+    ∀ (m : ℕ), LinearAssemblies.OnePad.LengthRealizable m N → LinearAssemblies.OnePad.recurrenceCost N ≤ m
+LinearAssemblies.System.accuracy_lower_bound {I : Type} [DecidableEq I] (s : LinearAssemblies.System I)
+  (compat : I → I → Prop) [DecidableRel compat] (N : ℕ) (eps : ℝ) (hN : 4 ≤ N) (heps : 0 < eps) (hepsHalf : eps ≤ 1 / 2)
+  (hconf :
+    1 / 2 ≤
+      s.attachmentWindow compat (LinearAssemblies.Probability.FiniteChain.lowerEndpoint N eps)
+        (LinearAssemblies.Probability.FiniteChain.upperEndpoint N eps)) :
+  min (↑N) eps⁻¹ / 24 ≤ ↑s.cost
+LinearAssemblies.Forest.Counts.nonnegative_integer_representation {S : Type} [Fintype S] [DecidableEq S]
+  (c : LinearAssemblies.Forest.Counts S) (hh : c.Haltable) (s : S) :
+  LinearAssemblies.Forest.NonnegCoeffs c.B ∧
+    LinearAssemblies.Forest.NonnegCoeffs (c.H s) ∧
+      Polynomial.eval 0 c.B = Polynomial.eval 0 (c.H s) ∧
+        1 ≤ Polynomial.eval 0 c.B ∧
+          c.B.natDegree ≤ Fintype.card S ∧
+            Polynomial.eval 1 c.B ≤ ∏ i, (2 * ↑(c.degree i) - ↑(c.transition i i)) ∧
+              Polynomial.eval 1 c.B ≤ ∏ i, 2 * ↑(c.degree i)
+LinearAssemblies.System.tile_polynomial_representation {I : Type} [DecidableEq I] (s : LinearAssemblies.System I)
+  (compat : I → I → Prop) [DecidableRel compat] (hh : s.Haltable compat) (start : s.TransientState compat) :
+  let c := s.absorptionCounts compat;
+  LinearAssemblies.Forest.NonnegCoeffs c.B ∧
+    LinearAssemblies.Forest.NonnegCoeffs (c.H start) ∧
+      Polynomial.eval 0 c.B = Polynomial.eval 0 (c.H start) ∧
+        1 ≤ Polynomial.eval 0 c.B ∧
+          c.B.natDegree ≤ Fintype.card (s.TransientState compat) ∧
+            Polynomial.eval 1 c.B ≤ ∏ i, (2 * ↑(c.degree i) - ↑(c.transition i i)) ∧
+              Polynomial.eval 1 c.B ≤ ∏ i, 2 * ↑(c.degree i)
+LinearAssemblies.System.general_coefficient_bounds {I : Type} [DecidableEq I] (s : LinearAssemblies.System I)
+  (compat : I → I → Prop) [DecidableRel compat] :
+  (s.absorptionCounts compat).B.natDegree ≤ s.cost ∧
+    Polynomial.eval 1 (s.absorptionCounts compat).B ≤ (2 * ↑s.cost) ^ s.cost
+LinearAssemblies.System.onePad_coefficient_bounds {α : Type} [DecidableEq α] (s : LinearAssemblies.System (Option α)) :
+  (s.absorptionCounts LinearAssemblies.onePad).B.natDegree ≤ s.cost ∧
+    Polynomial.eval 1 (s.absorptionCounts LinearAssemblies.onePad).B ≤ 2 ^ s.cost
+'LinearAssemblies.Probability.UniformGraph.pgf_first_step' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.Probability.UniformGraph.transform_hasDerivAt' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'LinearAssemblies.Probability.UniformGraph.transform_eq_ratio' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'LinearAssemblies.Forest.weighted_degree_le' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.Forest.log_coeff_sum_bound' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.Probability.UniformGraph.logarithmic_derivative_bound' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'LinearAssemblies.Probability.UniformGraph.tiltedMean_lower' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.Probability.alarm_survival' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.Probability.UniformGraph.confidence_polynomial_bounds' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'LinearAssemblies.System.confidence_polynomial_bounds' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.System.general_confidence_bounds' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.System.onePad_confidence_bounds' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.Probability.growth_inverse_bound' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.System.general_concentration_lower_bound' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.System.onePad_concentration_lower_bound' depends on axioms: [propext, Classical.choice, Quot.sound]
+LinearAssemblies.System.general_concentration_lower_bound {I : Type} [DecidableEq I] (s : LinearAssemblies.System I)
+  (compat : I → I → Prop) [DecidableRel compat] (ext : LinearAssemblies.Probability.FiniteAbsorptionLaw)
+  (hh : s.Haltable compat) (N : ℕ) (eps δ : ℝ) (hN : 2 ≤ N) (heps : 0 < eps) (hepsHalf : eps ≤ 1 / 2) (hδ : 0 < δ)
+  (hδ2 : δ ≤ 1 / 2)
+  (hconf :
+    1 - δ ≤
+      s.attachmentWindow compat (LinearAssemblies.Probability.FiniteChain.lowerEndpoint N eps)
+        (LinearAssemblies.Probability.FiniteChain.upperEndpoint N eps)) :
+  max (LinearAssemblies.Probability.confidenceScale (↑N) δ)
+        (max
+          (LinearAssemblies.Probability.confidenceEntropy (↑N) δ /
+            Real.log (2 + LinearAssemblies.Probability.confidenceEntropy (↑N) δ))
+          (min (↑N) eps⁻¹)) /
+      72 ≤
+    ↑s.cost
+LinearAssemblies.System.onePad_concentration_lower_bound {α : Type} [DecidableEq α]
+  (s : LinearAssemblies.System (Option α)) (ext : LinearAssemblies.Probability.FiniteAbsorptionLaw)
+  (hh : s.Haltable LinearAssemblies.onePad) (N : ℕ) (eps δ : ℝ) (hN : 2 ≤ N) (heps : 0 < eps) (hepsHalf : eps ≤ 1 / 2)
+  (hδ : 0 < δ) (hδ2 : δ ≤ 1 / 2)
+  (hconf :
+    1 - δ ≤
+      s.attachmentWindow LinearAssemblies.onePad (LinearAssemblies.Probability.FiniteChain.lowerEndpoint N eps)
+        (LinearAssemblies.Probability.FiniteChain.upperEndpoint N eps)) :
+  max (LinearAssemblies.Probability.confidenceEntropy (↑N) δ) (min (↑N) eps⁻¹) / 36 ≤ ↑s.cost
+'LinearAssemblies.PositiveDigits.represents' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.PositiveDigits.reset_valid' depends on axioms: [propext, Quot.sound]
+'LinearAssemblies.OnePad.ternary_cost_cube' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.OnePad.logarithmic_upper_bound' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.OnePad.F_cube_bound' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.OnePad.F_exponential_bound' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.OnePad.logarithmic_constant_lt' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.OnePad.logarithmic_lower_bound' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.OnePad.CertifiedBlock.compile_bounded_exists' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'LinearAssemblies.OnePad.onePad_block_exists' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.Presentation.system_potential' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.Presentation.system_mean' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.DigitData.represents' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.DigitData.count_log_bound' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.TwoPad.row_sum' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.TwoPad.tile_cost' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.TwoPad.certificate' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.TwoPad.exact_construction' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.TwoPad.block_remaining_bound' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.TwoPad.flexible_mean' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.Probability.weighted_series_limit' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.Probability.UniformGraph.mean_le_coeff_sum' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.System.mean_growth_bound' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.System.expected_length_lower_bound' depends on axioms: [propext, Classical.choice, Quot.sound]
+LinearAssemblies.OnePad.logarithmic_upper_bound (ext : LinearAssemblies.Probability.FiniteAbsorptionLaw) (N : ℕ)
+  (hN : 1 ≤ N) : ∃ m, LinearAssemblies.OnePad.LengthRealizable m N ∧ ↑m ≤ 3 * Real.log ↑N / Real.log 3 + 1
+LinearAssemblies.OnePad.logarithmic_lower_bound (ext : LinearAssemblies.Probability.FiniteAbsorptionLaw) {α : Type}
+  [DecidableEq α] (s : LinearAssemblies.System (Option α)) (hh : s.Haltable LinearAssemblies.onePad) (N : ℝ)
+  (hN : 0 < N) (hmean : s.expectedLength LinearAssemblies.onePad = N) : 3 * Real.log N / Real.log 3 - 0.670 < ↑s.cost
+LinearAssemblies.OnePad.onePad_block_exists (M : ℕ) (hM : 1 ≤ M) :
+  ∃ b, b.value = M ∧ ↑b.cost ≤ 3 * Real.log (↑M + 1) / Real.log 3 ∧ b.Bounded
+LinearAssemblies.TwoPad.exact_construction (ext : LinearAssemblies.Probability.FiniteAbsorptionLaw) (b M : ℕ)
+  (hb : 2 ≤ b) (hM : 1 ≤ M) :
+  ∃ d,
+    d.value = M ∧
+      (LinearAssemblies.TwoPad.presentation d).system.Haltable LinearAssemblies.twoPad ∧
+        (LinearAssemblies.TwoPad.presentation d).system.expectedLength LinearAssemblies.twoPad = ↑M + 1 ∧
+          ↑(LinearAssemblies.TwoPad.presentation d).system.cost ≤ 3 * ↑b + 2 * Real.log ↑M / Real.log ↑b + 1 ∧
+            ∀ (x : (LinearAssemblies.TwoPad.presentation d).system.InterfaceState),
+              ((LinearAssemblies.TwoPad.presentation d).system.toGraph LinearAssemblies.twoPad).expected x ≤
+                ↑M + ↑(b - 2)
+LinearAssemblies.TwoPad.block_remaining_bound {b : ℕ} (d : LinearAssemblies.DigitData b)
+  (ext : LinearAssemblies.Probability.FiniteAbsorptionLaw) (hb : 2 ≤ b) (hbudget : b - 2 ≤ d.value)
+  (x : (LinearAssemblies.TwoPad.presentation d).system.InterfaceState) :
+  ((LinearAssemblies.TwoPad.presentation d).system.toGraph LinearAssemblies.twoPad).expected x ≤ 2 * ↑d.value
+LinearAssemblies.System.expected_length_lower_bound {I : Type} [DecidableEq I] (s : LinearAssemblies.System I)
+  (compat : I → I → Prop) [DecidableRel compat] (ext : LinearAssemblies.Probability.FiniteAbsorptionLaw)
+  (hh : s.Haltable compat) (N : ℕ) (hN : 16 ≤ N) (hmean : s.expectedLength compat = ↑N) :
+  Real.log ↑N / (4 * Real.log (Real.log ↑N)) ≤ ↑s.cost
+'LinearAssemblies.selectedBase_le' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.selectedBase_cost' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.TwoPad.balanced_block_exists' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.TwoPad.logarithmic_upper_bound' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.Probability.FiniteChain.survival_markov' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.Probability.FiniteChain.survival_shift_le' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.Probability.FiniteChain.survival_blocks' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.Probability.UniformGraph.uniform_block_tail' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+LinearAssemblies.TwoPad.balanced_block_exists (ext : LinearAssemblies.Probability.FiniteAbsorptionLaw) (M : ℕ)
+  (hM : 1 ≤ M) :
+  ∃ d,
+    d.value = M ∧
+      (LinearAssemblies.TwoPad.presentation d).system.Haltable LinearAssemblies.twoPad ∧
+        (LinearAssemblies.TwoPad.presentation d).system.expectedLength LinearAssemblies.twoPad = ↑M + 1 ∧
+          ↑(LinearAssemblies.TwoPad.presentation d).system.cost ≤ 72 * LinearAssemblies.phi ↑M ∧
+            ∀ (x : (LinearAssemblies.TwoPad.presentation d).system.InterfaceState),
+              ((LinearAssemblies.TwoPad.presentation d).system.toGraph LinearAssemblies.twoPad).expected x ≤ 2 * ↑M
+LinearAssemblies.TwoPad.logarithmic_upper_bound (ext : LinearAssemblies.Probability.FiniteAbsorptionLaw) (N : ℕ)
+  (hN : 16 ≤ N) :
+  ∃ d,
+    d.value = N - 1 ∧
+      (LinearAssemblies.TwoPad.presentation d).system.Haltable LinearAssemblies.twoPad ∧
+        (LinearAssemblies.TwoPad.presentation d).system.expectedLength LinearAssemblies.twoPad = ↑N ∧
+          ↑(LinearAssemblies.TwoPad.presentation d).system.cost ≤ 72 * (Real.log ↑N / Real.log (Real.log ↑N))
+LinearAssemblies.Probability.UniformGraph.uniform_block_tail {S : Type} [Fintype S] [DecidableEq S]
+  (g : LinearAssemblies.Probability.UniformGraph S) (ext : LinearAssemblies.Probability.FiniteAbsorptionLaw)
+  (hh : g.Haltable) (M : ℕ) (hM : 1 ≤ M) (hmean : ∀ (i : S), g.expected i ≤ 2 * ↑M) (j : ℕ) (i : S) :
+  g.tail (4 * M * j) i ≤ (1 / 2) ^ j
+'LinearAssemblies.Probability.UniformGraph.sequential_mass' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.Concatenation.cost' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.Concatenation.certificate' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.Concatenation.system_mass' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.Concatenation.onePadSeparation' depends on axioms: [propext, Quot.sound]
+'LinearAssemblies.Concatenation.twoPadSeparation' depends on axioms: [propext, Quot.sound]
+'LinearAssemblies.OnePadBlock.join_mass' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.TwoPadBlock.join_mass' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.OnePadBlock.join_cost' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.TwoPadBlock.join_cost' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.Probability.BlockLaw.real_tail' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.Probability.BlockLaw.centered_tail' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.Probability.block_concentration' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.balanced_squares' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.phi_mono' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.phi_double' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.Concentration.deterministic_one' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.Concentration.deterministic_two' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.Concentration.one_balanced' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.Concentration.two_balanced' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.Appendable.failure_eq_deviation' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.onePad_concentrated_upper' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.twoPad_concentrated_upper' depends on axioms: [propext, Classical.choice, Quot.sound]
+LinearAssemblies.Probability.SubexponentialEquivalence : Prop
+def LinearAssemblies.Probability.SubexponentialEquivalence : Prop :=
+∃ C,
+  1 ≤ C ∧
+    ∀ (p X : ℕ → ℝ) (K : ℝ),
+      (∀ (n : ℕ), 0 ≤ p n) →
+        HasSum p 1 →
+          0 < K →
+            (∀ (u : ℝ), 0 ≤ u → LinearAssemblies.Probability.magnitudeTail p X u ≤ 2 * Real.exp (-u / K)) →
+              (Summable fun n => p n * Real.exp (|X n| / (C * K))) ∧ ∑' (n : ℕ), p n * Real.exp (|X n| / (C * K)) ≤ 2
+LinearAssemblies.Probability.BernsteinLaw : Prop
+def LinearAssemblies.Probability.BernsteinLaw : Prop :=
+∃ c,
+  0 < c ∧
+    ∀ (bs : List LinearAssemblies.Probability.BernsteinInput) (V B t : ℝ),
+      (∀ b ∈ bs, b.Valid) →
+        0 < V →
+          0 < B →
+            0 < t →
+              (List.map (fun b => b.scale ^ 2) bs).sum ≤ V →
+                (∀ b ∈ bs, b.scale ≤ B) →
+                  LinearAssemblies.Probability.deviation
+                      (LinearAssemblies.Probability.independentSum
+                        (List.map LinearAssemblies.Probability.BernsteinInput.mass bs))
+                      (List.map LinearAssemblies.Probability.BernsteinInput.mean bs).sum t ≤
+                    2 * Real.exp (-c * min (t ^ 2 / V) (t / B))
+LinearAssemblies.Probability.block_concentration (sub : LinearAssemblies.Probability.SubexponentialEquivalence)
+  (bern : LinearAssemblies.Probability.BernsteinLaw) :
+  ∃ a,
+    0 < a ∧
+      ∀ (bs : List LinearAssemblies.Probability.BlockLaw) (V B t : ℝ),
+        0 < V →
+          0 < B →
+            0 < t →
+              (List.map (fun b => ↑b.mean ^ 2) bs).sum ≤ V →
+                (∀ b ∈ bs, ↑b.mean ≤ B) →
+                  LinearAssemblies.Probability.deviation
+                      (LinearAssemblies.Probability.independentSum
+                        (List.map LinearAssemblies.Probability.BlockLaw.mass bs))
+                      (List.map (fun b => ↑b.mean) bs).sum t ≤
+                    2 * Real.exp (-a * min (t ^ 2 / V) (t / B))
+LinearAssemblies.onePad_concentrated_upper (ext : LinearAssemblies.Probability.FiniteAbsorptionLaw)
+  (sub : LinearAssemblies.Probability.SubexponentialEquivalence) (bern : LinearAssemblies.Probability.BernsteinLaw) :
+  ∃ C,
+    0 < C ∧
+      ∀ (N : ℕ) (ε δ : ℝ),
+        2 ≤ N →
+          0 < ε →
+            ε ≤ 1 / 2 →
+              0 < δ →
+                δ ≤ 1 / 2 →
+                  ∃ b,
+                    b.block.p.system.Concentrated LinearAssemblies.onePad (↑N) ε δ ∧
+                      ↑b.block.cost ≤
+                        C * ↑(LinearAssemblies.Concentration.budgetR N ε δ) *
+                          Real.log (1 + ↑N / ↑(LinearAssemblies.Concentration.budgetR N ε δ))
+LinearAssemblies.twoPad_concentrated_upper (ext : LinearAssemblies.Probability.FiniteAbsorptionLaw)
+  (sub : LinearAssemblies.Probability.SubexponentialEquivalence) (bern : LinearAssemblies.Probability.BernsteinLaw) :
+  ∃ C,
+    0 < C ∧
+      ∀ (N : ℕ) (ε δ : ℝ),
+        2 ≤ N →
+          0 < ε →
+            ε ≤ 1 / 2 →
+              0 < δ →
+                δ ≤ 1 / 2 →
+                  ∃ b,
+                    b.block.p.system.Concentrated LinearAssemblies.twoPad (↑N) ε δ ∧
+                      b.block.p.system.Concentrated (LinearAssemblies.twoPadFlexibleRule b.First b.Second).binds (↑N) ε
+                          δ ∧
+                        ↑b.block.cost ≤
+                          C * ↑(LinearAssemblies.Concentration.budgetR N ε δ) *
+                            LinearAssemblies.phi (↑N / ↑(LinearAssemblies.Concentration.budgetR N ε δ))
+'LinearAssemblies.System.failure_add_window' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.System.Concentrated.window' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.twoToPads_rule' depends on axioms: [propext, Quot.sound]
+'LinearAssemblies.twoToPads_injective' depends on axioms: [propext, Quot.sound]
+'LinearAssemblies.Appendable.map_concentrated' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.kPad_concentrated_upper' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.fixed_confidence_regimes' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.polynomial_confidence_regimes' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.OnePad.Algorithms.binary_fuel' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.OnePad.Algorithms.scan_spec' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.OnePad.Algorithms.sequential_correct' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.OnePad.Algorithms.sequential_cost' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.OnePad.Algorithms.beta_bounds' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.OnePad.Algorithms.log_window' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.OnePad.Algorithms.threshold_window' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.OnePad.Algorithms.select_correct' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.Algorithms.power_correct' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.Algorithms.power_cost' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.OnePad.Algorithms.precision_error' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.OnePad.Algorithms.approximateBeta_correct' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.OnePad.Algorithms.approximation_output_size' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'LinearAssemblies.OnePad.Algorithms.approximation_polynomial' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.OnePad.Algorithms.selectCosted_correct' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.OnePad.Algorithms.selection_cost' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.OnePad.Algorithms.fastThreshold_correct' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.OnePad.Algorithms.fast_correct' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.OnePad.Algorithms.eventually_polynomial_size' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'LinearAssemblies.OnePad.Algorithms.fast_cost_raw' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.OnePad.Algorithms.fast_cost_bitlength' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.OnePad.Algorithms.theorem_six' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LinearAssemblies.OnePad.Algorithms.theorem_seven' depends on axioms: [propext, Classical.choice, Quot.sound]
+LinearAssemblies.kPad_concentrated_upper (ext : LinearAssemblies.Probability.FiniteAbsorptionLaw)
+  (sub : LinearAssemblies.Probability.SubexponentialEquivalence) (bern : LinearAssemblies.Probability.BernsteinLaw) :
+  ∃ C,
+    0 < C ∧
+      ∀ (κ N : ℕ) (ε δ : ℝ),
+        2 ≤ κ →
+          2 ≤ N →
+            0 < ε →
+              ε ≤ 1 / 2 →
+                0 < δ →
+                  δ ≤ 1 / 2 →
+                    ∃ A dec s,
+                      s.Concentrated LinearAssemblies.kPad (↑N) ε δ ∧
+                        ↑s.cost ≤
+                          C * ↑(LinearAssemblies.Concentration.budgetR N ε δ) *
+                            LinearAssemblies.phi (↑N / ↑(LinearAssemblies.Concentration.budgetR N ε δ))
+LinearAssemblies.fixed_confidence_regimes (ext : LinearAssemblies.Probability.FiniteAbsorptionLaw)
+  (sub : LinearAssemblies.Probability.SubexponentialEquivalence) (bern : LinearAssemblies.Probability.BernsteinLaw)
+  (ε δ : ℝ) (hε : 0 < ε) (hε1 : ε ≤ 1 / 2) (hδ : 0 < δ) (hδ1 : δ ≤ 1 / 2) :
+  ∃ l1 l2 u,
+    0 < l1 ∧
+      0 < l2 ∧
+        0 < u ∧
+          ∀ᶠ (N : ℕ) in Filter.atTop,
+            LinearAssemblies.OnePadBounds N ε δ (l1 * Real.log ↑N) (u * Real.log ↑N) ∧
+              LinearAssemblies.GeneralBounds N ε δ (l2 * (Real.log ↑N / Real.log (Real.log ↑N)))
+                (u * (Real.log ↑N / Real.log (Real.log ↑N)))
+LinearAssemblies.polynomial_confidence_regimes (ext : LinearAssemblies.Probability.FiniteAbsorptionLaw)
+  (sub : LinearAssemblies.Probability.SubexponentialEquivalence) (bern : LinearAssemblies.Probability.BernsteinLaw)
+  (ε c : ℝ) (hε : 0 < ε) (hε1 : ε ≤ 1 / 2) (hc : 0 < c) :
+  ∃ l1 l2 u,
+    0 < l1 ∧
+      0 < l2 ∧
+        0 < u ∧
+          ∀ᶠ (N : ℕ) in Filter.atTop,
+            LinearAssemblies.OnePadBounds N ε (↑N ^ (-c)) (l1 * Real.log ↑N ^ 2) (u * Real.log ↑N ^ 2) ∧
+              LinearAssemblies.GeneralBounds N ε (↑N ^ (-c)) (l2 * (Real.log ↑N ^ 2 / Real.log (Real.log ↑N)))
+                (u * (Real.log ↑N ^ 2 / Real.log (Real.log ↑N)))
+LinearAssemblies.OnePad.Algorithms.theorem_six (ext : LinearAssemblies.Probability.FiniteAbsorptionLaw) :
+  (∀ (N : ℕ),
+      1 ≤ N →
+        LinearAssemblies.OnePad.LengthRealizable (LinearAssemblies.OnePad.Algorithms.sequentialLength N).1 N ∧
+          ∀ (k : ℕ),
+            LinearAssemblies.OnePad.LengthRealizable k N →
+              (LinearAssemblies.OnePad.Algorithms.sequentialLength N).1 ≤ k) ∧
+    ∃ C,
+      0 < C ∧
+        ∀ᶠ (N : ℕ) in Filter.atTop, ↑(LinearAssemblies.OnePad.Algorithms.sequentialLength N).2 ≤ C * Real.log ↑N ^ 2
+LinearAssemblies.OnePad.Algorithms.theorem_seven (ext : LinearAssemblies.Probability.FiniteAbsorptionLaw)
+  (m : LinearAssemblies.Algorithms.Multiplication) (hm : m.Fast) (l : LinearAssemblies.Algorithms.Logarithm)
+  (hl : l.Polynomial) :
+  (∀ (N : ℕ),
+      1 ≤ N →
+        LinearAssemblies.OnePad.LengthRealizable (LinearAssemblies.OnePad.Algorithms.fastLength m l N).1 N ∧
+          ∀ (k : ℕ),
+            LinearAssemblies.OnePad.LengthRealizable k N →
+              (LinearAssemblies.OnePad.Algorithms.fastLength m l N).1 ≤ k) ∧
+    ∃ C,
+      0 < C ∧
+        ∀ᶠ (N : ℕ) in Filter.atTop,
+          ↑(LinearAssemblies.OnePad.Algorithms.fastLength m l N).2 ≤ C * Real.log ↑N * Real.log (Real.log ↑N)
+structure LinearAssemblies.Algorithms.Multiplication.Fast (m : LinearAssemblies.Algorithms.Multiplication) : Prop
+number of parameters: 1
+fields:
+  LinearAssemblies.Algorithms.Multiplication.Fast.correct : ∀ (a b : ℕ), m.run a b = a * b
+  LinearAssemblies.Algorithms.Multiplication.Fast.bound : ∃ C,
+      1 ≤ C ∧ ∀ (a b : ℕ), ↑(m.steps a b) ≤ C * (↑a.size + ↑b.size + 1) * Real.log (↑a.size + ↑b.size + 2)
+constructor:
+  LinearAssemblies.Algorithms.Multiplication.Fast.mk {m : LinearAssemblies.Algorithms.Multiplication}
+    (correct : ∀ (a b : ℕ), m.run a b = a * b)
+    (bound :
+      ∃ C, 1 ≤ C ∧ ∀ (a b : ℕ), ↑(m.steps a b) ≤ C * (↑a.size + ↑b.size + 1) * Real.log (↑a.size + ↑b.size + 2)) :
+    m.Fast
+theorem LinearAssemblies.Algorithms.Multiplication.Fast.correct : ∀ {m : LinearAssemblies.Algorithms.Multiplication},
+  m.Fast → ∀ (a b : ℕ), m.run a b = a * b :=
+fun m self => self.1
+theorem LinearAssemblies.Algorithms.Multiplication.Fast.bound : ∀ {m : LinearAssemblies.Algorithms.Multiplication},
+  m.Fast → ∃ C, 1 ≤ C ∧ ∀ (a b : ℕ), ↑(m.steps a b) ≤ C * (↑a.size + ↑b.size + 1) * Real.log (↑a.size + ↑b.size + 2) :=
+fun m self => self.2
+structure LinearAssemblies.Algorithms.Logarithm.Polynomial (l : LinearAssemblies.Algorithms.Logarithm) : Prop
+number of parameters: 1
+fields:
+  LinearAssemblies.Algorithms.Logarithm.Polynomial.accurate : ∀ (x p : ℕ),
+      2 ≤ x → |↑(l.run x p) / 2 ^ p - Real.log ↑x| ≤ 2⁻¹ ^ p
+  LinearAssemblies.Algorithms.Logarithm.Polynomial.bound : ∀ (x : ℕ),
+      2 ≤ x → ∃ C d, ∀ (p : ℕ), l.steps x p ≤ C * (p + 1) ^ d
+constructor:
+  LinearAssemblies.Algorithms.Logarithm.Polynomial.mk {l : LinearAssemblies.Algorithms.Logarithm}
+    (accurate : ∀ (x p : ℕ), 2 ≤ x → |↑(l.run x p) / 2 ^ p - Real.log ↑x| ≤ 2⁻¹ ^ p)
+    (bound : ∀ (x : ℕ), 2 ≤ x → ∃ C d, ∀ (p : ℕ), l.steps x p ≤ C * (p + 1) ^ d) : l.Polynomial
+theorem LinearAssemblies.Algorithms.Logarithm.Polynomial.accurate : ∀ {l : LinearAssemblies.Algorithms.Logarithm},
+  l.Polynomial → ∀ (x p : ℕ), 2 ≤ x → |↑(l.run x p) / 2 ^ p - Real.log ↑x| ≤ 2⁻¹ ^ p :=
+fun l self => self.1
+theorem LinearAssemblies.Algorithms.Logarithm.Polynomial.bound : ∀ {l : LinearAssemblies.Algorithms.Logarithm},
+  l.Polynomial → ∀ (x : ℕ), 2 ≤ x → ∃ C d, ∀ (p : ℕ), l.steps x p ≤ C * (p + 1) ^ d :=
+fun l self => self.2

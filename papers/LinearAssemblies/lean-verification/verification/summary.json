@@ -1,0 +1,48 @@
+{
+  "release": "1.0.0-complete-conditional",
+  "checked_at_utc": "2026-11-27T04:02:44.446192+00:00",
+  "input_paper": {
+    "filename": "Linear_Assemblies__Expected_and_High_Probability (3).pdf",
+    "sha256": "fee6a935ea5c88528cb0ae80b6cf440b2ec3da8385d61643d6423f77bf035972",
+    "draft": "November 26, 2026; 26 pages"
+  },
+  "lean_version": "4.19.0",
+  "mathlib_revision": "c44e0c8ee63ca166450922a373c7409c5d26b00b",
+  "proof_modules": 86,
+  "named_theorem_declarations": 495,
+  "audited_main_declarations": 153,
+  "build_success": true,
+  "build_mode": "All local project build outputs removed before rebuilding; pinned dependency cache retained",
+  "proof_placeholder_scan": "passed",
+  "custom_axiom_scan": "passed",
+  "native_or_unsafe_scan": "passed",
+  "warnings": 0,
+  "audited_foundational_axioms": [
+    "Classical.choice",
+    "Quot.sound",
+    "propext"
+  ],
+  "explicit_external_hypotheses_used": [
+    "E01: Probability.FiniteAbsorptionLaw",
+    "E03a: Probability.SubexponentialEquivalence",
+    "E03b: Probability.BernsteinLaw",
+    "E04: Algorithms.Multiplication.Fast",
+    "E08: Algorithms.Logarithm.Polynomial"
+  ],
+  "result_coverage": [
+    "Theorems 1–8",
+    "Lemmas 1–12",
+    "Corollaries 9–10",
+    "Exact recurrence, closed form and minimum characterization",
+    "Extension to every fixed kappa>=2"
+  ],
+  "algorithm_cost_model": "Costed binary-arithmetic functions with explicit external multiplication and fixed-point logarithm contracts; no machine-code runtime claim",
+  "remaining_work_in_conditional_scope": [],
+  "remaining_estimate_active_hours_in_conditional_scope": 0,
+  "scope_details": [
+    "STATUS.md",
+    "ASSUMPTIONS.md",
+    "ALGORITHMS.md",
+    "COMPLETION.md"
+  ]
+}
