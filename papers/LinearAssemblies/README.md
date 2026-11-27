@@ -11,7 +11,7 @@ The paper gives an exact characterization of the minimum for one-pad systems and
 
 ## Files
 
-- [paper.pdf](paper.pdf) — The research paper, including the model, constructions, proofs, and main theorems.
+- [LinearAssemblies_paper.pdf](LinearAssemblies_paper.pdf) — The research paper, including the model, constructions, proofs, and main theorems.
 - [lean-verification/](lean-verification/) — The Lean project, supporting documentation, and recorded verification results. See the [Lean README](lean-verification/README.md) for setup and checking instructions.
 
 ## Current status
